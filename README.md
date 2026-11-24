@@ -23,4 +23,7 @@
 
 ## 연락
 
-verba.et.acta@proton.me — 정정 요청, 회사 측 설명, 분석 요청
+- 메일: verba.et.acta@proton.me — 정정 요청, 회사 측 설명, 분석 요청
+- Threads: [@verba.et.acta](https://www.threads.net/@verba.et.acta) — 새 글과 정정 소식
+
+이 밖의 계정은 운영하지 않습니다.
