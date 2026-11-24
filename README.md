@@ -16,6 +16,7 @@
 
 | 날짜 | 대상 | 내용 |
 |---|---|---|
+| 2026-11-24 | 키링(Keyring) | [개인정보 처리방침과 Android 앱 대조](https://github.com/VerbaEtActa/keyring-privacy-review-2026-11) |
 | 2026-11-24 | Vooy | [개인정보 처리방침과 Android 앱 동작 대조](https://github.com/VerbaEtActa/vooy-privacy-review-2026-11) |
 | 2026-11-24 | 두리(Dool2) | [개인정보처리방침 주장과 공개 소스 대조](https://github.com/VerbaEtActa/dool2-privacy-review-2026-11) |
 | 2026-11-24 | 피클(Pickle) | [개인정보 처리방침 변경 이력 및 Android 앱 동작 분석](https://github.com/VerbaEtActa/pickle-privacy-policy-2026-11) |
