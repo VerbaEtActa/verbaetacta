@@ -18,7 +18,7 @@
 
 한국에서 만들어졌거나 한국에서 널리 쓰이는 오픈소스 프로젝트의 소스 코드를 검토해, 발견한 취약점을 메인테이너에게 비공개로 제보합니다. 보상은 요구하지 않습니다.
 
-검토 요청도 받습니다. 메인테이너가 아니어도 신청할 수 있고, 현재는 GitHub 별 10개 이상이거나 실제 사용처가 확인되는 프로젝트만 받습니다. 신청 방법, 진행 방식, 공개된 기록은 [oss-security-review](https://github.com/VerbaEtActa/oss-security-review)에 있습니다.
+검토 요청도 받습니다. 메인테이너가 아니어도 신청할 수 있고, 현재는 GitHub 별 10개 이상이거나 실제 사용처가 확인되는 프로젝트를 먼저 봅니다. 신청 방법, 진행 방식, 공개된 기록은 [oss-security-review](https://github.com/VerbaEtActa/oss-security-review)에 있습니다.
 
 ## 보고서
 
